@@ -1,0 +1,39 @@
+/* frontend/src/App.css */
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .home {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .generator {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .controls {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .controls label {
+    margin-bottom: 10px;
+  }
+  
+  .controls input, .controls select, .controls textarea {
+    margin-left: 10px;
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 10px;
+  }
+  
+  .audio-player {
+    margin-top: 20px;
+  }
+  

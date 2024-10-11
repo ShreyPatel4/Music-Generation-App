@@ -1,2 +1,11 @@
-flask
-some-other-library
+fastapi==0.78.0
+uvicorn[standard]==0.17.6
+pydantic
+transformers
+torch
+magenta
+pretty_midi
+numpy
+soundfile
+aiohttp
+tensorflow
